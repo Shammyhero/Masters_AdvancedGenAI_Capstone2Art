@@ -19,7 +19,7 @@ The goal of this project was to take three iconic pieces of media—an audio alb
 
 *   **Concept:** Transforming the classic adventure theme into a cinematic, atmospheric landscape.
 
-## 3. Movie Box: *Pulp Fiction*
+## 3. Movie Box: *Pulp Fiction* The Model I used was bad at writing text, so I added text manually for this one
 *   **Original Work:** ![Pulp Fiction](https://github.com/user-attachments/assets/11dd2b33-db9e-4cc8-afb6-8b90b171848a)
 
 *   **AI-Generated Variation:** <img width="1676" height="2034" alt="Ready PULP FICTION" src="https://github.com/user-attachments/assets/9793711e-c4de-4adc-8ac4-cbf4f9364910" />
