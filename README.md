@@ -6,18 +6,24 @@ The goal of this project was to take three iconic pieces of media—an audio alb
 ---
 
 ## 1. Audio Album: Pink Floyd - *Atom Heart Mother*
-*   **Original Work:** [Insert Original Image Here]
-*   **AI-Generated Variation:** [Insert Generated Image Here]
+*   **Original Work:** ![Atom Heart Mother](https://github.com/user-attachments/assets/a9927172-c325-4038-bd64-aca0cb8942f1)
+
+*   **AI-Generated Variation:** <img width="1024" height="1024" alt="Atom Heart Mother" src="https://github.com/user-attachments/assets/a90a2dd4-b66a-4b5c-b768-8dec83c63db9" />
+
 *   **Concept:** Reimagining the iconic cow pasture with a surreal, high-fidelity modern aesthetic.
 
 ## 2. Book Cover: *Journey* (by various/generic selection)
-*   **Original Work:** [Insert Original Image Here]
-*   **AI-Generated Variation:** [Insert Generated Image Here]
+*   **Original Work:** ![Journey](https://github.com/user-attachments/assets/d41852f8-bbb8-4f0f-9b7d-c87c14f2ffe4)
+
+*   **AI-Generated Variation:** <img width="1024" height="1024" alt="Journey" src="https://github.com/user-attachments/assets/9169dd4b-cfa0-4dae-b356-b3ba18d90837" />
+
 *   **Concept:** Transforming the classic adventure theme into a cinematic, atmospheric landscape.
 
 ## 3. Movie Box: *Pulp Fiction*
-*   **Original Work:** [Insert Original Image Here]
-*   **AI-Generated Variation:** [Insert Generated Image Here]
+*   **Original Work:** ![Pulp Fiction](https://github.com/user-attachments/assets/11dd2b33-db9e-4cc8-afb6-8b90b171848a)
+
+*   **AI-Generated Variation:** <img width="1676" height="2034" alt="Ready PULP FICTION" src="https://github.com/user-attachments/assets/9793711e-c4de-4adc-8ac4-cbf4f9364910" />
+
 *   **Concept:** A "Medieval Fantasy" reimagining, turning the characters into knights in a tavern.
 
 ---
@@ -44,7 +50,11 @@ The goal of this project was to take three iconic pieces of media—an audio alb
 *   **Resolution:** 1024 x 1024
 
 ### Pipeline Screenshot
-[Insert Screenshot of ComfyUI Workflow Here]
+
+<img width="1510" height="848" alt="Screenshot 2026-01-30 at 02 34 02" src="https://github.com/user-attachments/assets/fcc31226-b88d-47e3-99a5-89ed80e82f1b" />
+
+<img width="1512" height="837" alt="Screenshot 2026-01-30 at 02 39 33" src="https://github.com/user-attachments/assets/1a7001eb-0d15-4a96-932f-145cf65dd916" />
+
 
 ---
 
