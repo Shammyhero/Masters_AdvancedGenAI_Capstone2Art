@@ -1,0 +1,14 @@
+# Ignore the ComfyUI tool folder (it's large and has its own git)
+ComfyUI/
+
+# Ignore system files
+.DS_Store
+.gemini/
+
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore temporary large files if any
+*.safetensors
+*.ckpt
